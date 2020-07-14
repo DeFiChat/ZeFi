@@ -250,7 +250,7 @@ function App() {
           tab={
             <span>
               <SolutionOutlined />
-              CHARTS
+              CHAT
             </span>
           }
           key="3"
